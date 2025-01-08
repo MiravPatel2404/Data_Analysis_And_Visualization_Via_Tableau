@@ -5,7 +5,7 @@
 ## Welcome to the **Tableau Dashboards Repository**!
 - Here are few of the dashboards I created to analyze and visualize various datasets across different domains while learning Data Analysis and Visualisation.
 - I have attempted to implemented some advanced visualisation techniques in these dashboards in order to make them more informative.
-
+- My Public Tableau Account - https://public.tableau.com/app/profile/mirav.patel/vizzes
 ---
 
 ##  **What Can You Expect from This Repository?**  
